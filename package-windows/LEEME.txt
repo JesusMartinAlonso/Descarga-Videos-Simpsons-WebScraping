@@ -1,0 +1,4 @@
+Para descargar los videos sigue los siguientes pasos:
+1.- Descarga e instalaPython 3.4 desde aquí (https://www.python.org/ftp/python/3.4.4/python-3.4.4rc1.msi)
+2.- Doble click en el archivo DescargarVideos
+3.- Los videos descargados se guardan en la carpeta "videosDescargados"
